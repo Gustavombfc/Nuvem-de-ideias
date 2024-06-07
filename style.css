@@ -1,0 +1,29 @@
+body{background-color: black;}
+.p1{text-align: right;
+border-style: groove;
+padding: 1%;
+margin-left: 65%;
+color: snow;
+}
+
+.p2{text-align: left;
+border-style: groove;
+padding: 1%;
+margin-right: 65%;
+color: snow;
+}
+
+.p3{text-align: right;
+border-style: groove;
+padding: 1%;
+margin-left: 65%;
+color: snow;
+}
+
+.p4{text-align:left;
+border-style: groove;
+padding: 1%;
+margin-right: 65%;
+color: snow;
+}
+    
